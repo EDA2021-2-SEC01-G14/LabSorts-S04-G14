@@ -1,5 +1,9 @@
 #ISIS1225 - Estructura de un proyecto
 
+1- Jeronimo Vargas Rendon, 202113305, j.vargar2@uniandes.edu.co
+
+2- Maicol Rincon, , m.antonio@uniandes.edu.co
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
